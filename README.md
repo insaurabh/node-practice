@@ -2,15 +2,15 @@
 
 ---
 
-0. Pre-requisite
+0. Pre-requisite : [Core JS Concepts](how-much-javascript-do-you-need-to-know-to-use-nodejs)
 
-   1. [ ] Install NodeJS
-   2. [ ] Create a NodeJS project
-   3. [ ] Write hello world
+   1. [x] Install NodeJS
+   2. [x] Create a NodeJS project
+   3. [x] Write hello world
 
 1. **Core Node.js Concepts:**
    - [ ] What is Node.js, and how does it differ from traditional JavaScript?
-   - [ ] Explain the event-driven, non-blocking I/O model of Node.js.
+   - [ ] Explain the event-driven, non-blocking I/O model of Node.js. [Blocking vs Non-Blocking](https://nodejs.org/en/docs/guides/blocking-vs-non-blocking)
    - [ ] Can you describe the Node.js event loop and its significance?
    - [ ] File handling
      - [ ] Create a file, write some data, in sync and async mode
@@ -78,4 +78,7 @@
    - Have you used any profiling or monitoring tools for Node.js applications?
 
 10. **Project ( Hosted somewhere ):**
+
     - What was the most challenging technical problem you encountered, and how did you solve it?
+
+11. [Node best practices](https://github.com/goldbergyoni/nodebestpractices)
