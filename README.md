@@ -2,7 +2,7 @@
 
 ---
 
-0. Pre-requisite : [Core JS Concepts](how-much-javascript-do-you-need-to-know-to-use-nodejs)
+0. Pre-requisite : [Core JS Concepts](https://nodejs.dev/en/learn/how-much-javascript-do-you-need-to-know-to-use-nodejs/)
 
    1. [x] Install NodeJS
    2. [x] Create a NodeJS project
