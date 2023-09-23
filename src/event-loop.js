@@ -33,6 +33,7 @@ third();
 * stack in in engine like v8
 * webAPI is in web ( browser )
 * eventLoop exists in ?
+* http://latentflip.com/loupe/?code=CmNvbnNvbGUubG9nKCJIaSEiKTsKCnNldFRpbWVvdXQoZnVuY3Rpb24gdGltZW91dCgpIHsKICAgIGNvbnNvbGUubG9nKCJKcyBpcyBmdW4uIE5vdCBhbHdheXMiKTsKfSwgNTAwMCk7Cgpjb25zb2xlLmxvZygiV2VsY29tZS4iKTs%3D!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D
 */
 
 console.log("first task in stack");
