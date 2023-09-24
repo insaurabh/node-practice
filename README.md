@@ -11,10 +11,10 @@
 1. **Core Node.js Concepts:**
    - [x] What is Node.js, and how does it differ from traditional JavaScript?
    - [x] Explain the [event-driven](https://youtu.be/rJHTK2TfZ1I?si=IklachFiNA-zsyd8) architecture, [node events](https://nodejs.org/dist/latest-v20.x/docs/api/events.html) non-blocking I/O model of Node.js. [Blocking vs Non-Blocking](https://nodejs.org/en/docs/guides/blocking-vs-non-blocking)
-   - [ ] Can you describe the Node.js event loop and its significance?
-   - [ ] File handling
-     - [ ] Create a file, write some data, in sync and async mode
-     - [ ] Create folders and write some data
+   - [x] Can you describe the Node.js event loop and its significance?
+   - [x] File handling
+     - [x] Create a file, write some data, in sync and async mode
+     - [x] Create folders and write some data
 
 - Explore some in-built methods
   - [ ] node: http
