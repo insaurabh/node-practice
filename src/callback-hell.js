@@ -2,6 +2,8 @@ const fs = require("node:fs");
 
 const util = require("node:util");
 
+console.log(__dirname);
+
 fs.readFile("./data/dummy.json", (err, chunks) => {
   console.log(chunks);
 });

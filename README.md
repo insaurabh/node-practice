@@ -27,21 +27,26 @@
   - [ ] node: events
   - [ ] node:util
 - Create Server
-  - [ ] Create server
-  - [ ] Do a CRUD operation to file
+  - [x] Create server
+  - [x] Do a CRUD operation to file
 
 2. **Asynchronous Programming:**
 
    - [ ] How do you handle asynchronous operations in Node.js?
-   - [ ] Explain callbacks, Promises, and async/await. When would you use each of them?
-     - [ ] Can `node: fs/promises` have any relation here?
-   - [ ] What is callback hell, and how can it be mitigated?
+   - [x] Explain callbacks, Promises, and async/await. When would you use each of them?
+     - [x] Can `node: fs/promises` have any relation here?
+   - [x] What is callback hell, and how can it be mitigated?
 
 3. **Modules and Package Management:**
 
    - [ ] How do you organize and structure a Node.js application?
-   - [ ] What is the CommonJS module system, and how does it work?
-   - [ ] Describe the use of npm (Node Package Manager) in managing dependencies.
+   - [x] What is the CommonJS module system, and how does it work?
+
+     - [x] [modules](https://nodejs.dev/en/api/v18/modules/)
+     - [x] How they work '/', './', or '../'
+     - [x] Any [difference](https://nodejs.dev/en/api/v18/modules/#file-modules) when we call a file as './someModule.js' or 'someFile.js'
+
+   - [x] Describe the use of npm (Node Package Manager) in managing dependencies.
 
 4. **Express.js:**
 

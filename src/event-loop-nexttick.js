@@ -33,6 +33,10 @@ process.nextTick(() => {
 });
 
 let someFun = function () {
+  setTimeout(() => {
+    console.log("in side callback after 0 seconds");
+  }, 0);
+
   setImmediate(() => console.log("immediate"));
 
   process.nextTick(() => console.log("nextTick"));
