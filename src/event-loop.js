@@ -58,7 +58,12 @@ setTimeout(() => {
 }, 0);
 
 setTimeout(() => {
-  console.log("first task in task queue");
+  console.log("second task in task queue");
 }, 1);
 
 console.log("second task in stack");
+
+process.nextTick(() => {
+  // do something
+  console.log("next ticked");
+});
